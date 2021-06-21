@@ -1,3 +1,3 @@
-/.vscode
-/__pycaache__
-/inventory.png
+.vscode
+__pycache__/
+inventory.png
